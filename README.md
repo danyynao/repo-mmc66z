@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · L9ru6i2Q -->
-## Notification 1/2
-Round: Round 1
-To: frank@crfusa.com, cmvinsk@yahoo.com
-At: 2026-09-16 14:26:51
-Id: L9ru6i2Q
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: epressman@osler.com, jaybird1856@hotmail.com
+At: 2026-09-16 14:26:59
+Id: Ou94Ze74
